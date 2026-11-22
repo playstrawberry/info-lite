@@ -1,0 +1,10 @@
+description=Información y noticias: dos textos que escribe el dueño del servidor, mostrados con /info y /news.
+permission_use=Usar /info y /news.
+command_info=Leer la presentación de este servidor.
+command_news=Leer las noticias del servidor.
+empty=Aquí todavía no se ha escrito nada.
+data_error=info-lite no pudo leer sus archivos de texto. Revisa su tamaño y contenido y recarga el plugin.
+save_error=info-lite no pudo crear sus archivos de texto en su carpeta de datos.
+next=Página {0} de {1}. Página siguiente: /{2} {3}
+page=Página {0} de {1}.
+no_page=Esa página no existe. Páginas: de 1 a {0}.

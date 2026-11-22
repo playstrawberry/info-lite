@@ -1,0 +1,10 @@
+description=Bilgi ve haberler: server sahibinin yazdığı iki metin, /info ve /news ile gösterilir.
+permission_use=/info ve /news komutlarını kullan.
+command_info=Bu server hakkındaki bilgiyi oku.
+command_news=Server'ın haberlerini oku.
+empty=Buraya henüz bir şey yazılmadı.
+data_error=info-lite metin dosyalarını okuyamadı. Boyutlarını ve içeriklerini kontrol et, sonra plugini yeniden yükle.
+save_error=info-lite veri klasöründe metin dosyalarını oluşturamadı.
+next=Sayfa {0} / {1}. Sonraki sayfa: /{2} {3}
+page=Sayfa {0} / {1}.
+no_page=Böyle bir sayfa yok. Sayfalar: 1 ile {0} arası.
